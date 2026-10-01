@@ -1,0 +1,25 @@
+# Raw and generated datasets
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Colab / local
+*.zip
+
+# Secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
